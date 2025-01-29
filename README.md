@@ -4,7 +4,7 @@ Welcome to the Second-Order System Design repository! This repository contains S
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Image](#image)
+- [Images](#images)
 - [Features](#features)
 - [Software Requirements](#software-requirements)
 - [Installation](#installation)
@@ -16,9 +16,12 @@ Welcome to the Second-Order System Design repository! This repository contains S
 ## Introduction
 The Second-Order System Design project demonstrates the principles and techniques for designing and analyzing second-order systems using Simulink. This educational project aims to provide an intuitive understanding of second-order system dynamics, stability, and response characteristics.
 
-## Image
-![Second Order System](https://res.cloudinary.com/dacpiss4b/image/upload/v1738131893/MATLAB_TQVBWu58EV_h0wzhy.png)
+## Images
+![Second Order System](images/simulink_model.png)
 *Figure 1: Diagram of a second-order system.*
+
+![System Response Graph](images/graph.png)
+*Figure 2: Graph showing the response of the second-order system.*
 
 ## Features
 - Simulink models of various second-order systems
@@ -36,4 +39,4 @@ The Second-Order System Design project demonstrates the principles and technique
 ## Installation
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/sployal/Second_ordrer_system_simulink
+git clone https://github.com/sployal/Second_ordrer_system_simulink.git
