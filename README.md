@@ -17,11 +17,18 @@ Welcome to the Second-Order System Design repository! This repository contains S
 The Second-Order System Design project demonstrates the principles and techniques for designing and analyzing second-order systems using Simulink. This educational project aims to provide an intuitive understanding of second-order system dynamics, stability, and response characteristics.
 
 ## Images
+<p align="center">
+  <img src="images/model.jpg" alt="Second Order System">
+</p>
+
+<p align="center"><em>Figure 1: Diagram illustration of a typical second order system.</em></p>
+
+
 ![Second Order System](images/simulink_model.png)
-*Figure 1: Diagram of a second-order system.*
+*Figure 2: Diagram of a second-order system.*
 
 ![System Response Graph](images/graph.png)
-*Figure 2: Graph showing the response of the second-order system.*
+*Figure 3: Graph showing the response of the second-order system.*
 
 ## Features
 - Simulink models of various second-order systems
